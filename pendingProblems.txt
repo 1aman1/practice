@@ -1,0 +1,4 @@
+problems pending
+array : Numbers of length N and value less than K
+      : rearrange array
+math : Power Of Two Integers
