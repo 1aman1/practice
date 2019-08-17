@@ -7,3 +7,5 @@ array : Numbers of length N and value less than K
       :
       :
 math : Power Of Two Integers
+Stacks And Queues: Nearest Smaller Element
+Stacks And Queues: Simplify Directory Path
