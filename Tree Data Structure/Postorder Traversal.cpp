@@ -7,7 +7,6 @@ vector<int> Solution::postorderTraversal(TreeNode* A) {
 			S.push( A );
 			A = A->left;
 		}
-
 		while( A == NULL && !S.empty() ) {
 			A = S.top();
 			if(A->right == NULL || A->right == prev ){
