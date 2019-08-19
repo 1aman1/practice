@@ -3,7 +3,7 @@ vector<int> Solution::inorderTraversal(TreeNode* A) {
     TreeNode *curr = A; 
     vector<int> result;
     
-    while (curr || !s.empty() ) { 
+    while( curr || !s.empty() ) { 
         while (curr) { 
             s.push(curr); 
             curr = curr->left; 
