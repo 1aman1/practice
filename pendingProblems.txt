@@ -3,7 +3,7 @@ array : Numbers of length N and value less than K
       : rearrange array
       : Max Distance
       : Maximum Consecutive Gap
-      : 
+      : next permutation
       :
       :
 math : Power Of Two Integers
